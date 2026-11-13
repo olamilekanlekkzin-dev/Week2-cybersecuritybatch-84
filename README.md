@@ -1,3 +1,4 @@
+[W2-PM-FINAL - penetration testing report PDF.pdf](https://github.com/user-attachments/files/34801576/W2-PM-FINAL.-.penetration.testing.report.PDF.pdf)
 # Week2-cybersecuritybatch-84
 Penetration,Penteseting and scanning
 <img width="3840" height="2160" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/e3158954-885d-4b8d-b4bf-b8dd518e39b4" />
